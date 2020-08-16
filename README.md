@@ -1,4 +1,4 @@
-# Vladilen-Redux
+# Redux
 ## [Ссылка на диаграмму](https://drive.google.com/file/d/1WXmB3naiiE9HxNZhdMAzrtlU7IhWqUpB/view?usp=sharing)
 ## [Ссылка на видео](https://www.youtube.com/watch?v=YdYyYMFPa44&t=3s)
   `State` это некая модель описывающая состояние приложения до его изменения пользователем.  
